@@ -24,7 +24,6 @@ import pandas as pd
 import numpy as np
 # Imports the Google Cloud client library
 # [START vision_python_migration_import]
-from pandas import DataFrame
 from google.cloud import vision
 from google.cloud.vision import types
 # [END vision_python_migration_import]
